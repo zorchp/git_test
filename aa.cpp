@@ -1,9 +1,7 @@
-#include <iostream>
-#include <vector>
+#include<iostream>
+#include<list>
 
-int main(int argc, char *argv[]) {
-    static int xxx;
-    static int yyy = 0;
-    static int zzz = 17;
-    return 0;
+int main(){
+	std::cout<<"chenge-git\n";
+	return 0;
 }
